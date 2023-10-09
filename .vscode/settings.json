@@ -1,0 +1,11 @@
+{
+    "elixirLS.signatureAfterComplete": true,
+    "elixirLS.autoInsertRequiredAlias": true,
+    "elixirLS.autoBuild": true,
+    "elixirLS.dialyzerEnabled": true,
+    "elixirLS.envVariables": {},
+        "elixirLS.shell": {
+          "command": "/bin/bash",
+          "args": ["-l"],
+        }
+}
